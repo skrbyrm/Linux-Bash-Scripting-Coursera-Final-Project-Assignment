@@ -80,10 +80,11 @@ chmod +x backup.sh
 ./backup.sh
 ```
 ### Schedule the script to run automatically
-
+Opens the crontab file for editing and add the following code line.
 ```
 crontab -e
 ```
 ```
 0 0 * * * /path/to/backup.sh
 ```
+Now its schedules the `backup.sh` script to run every day at midnight.
