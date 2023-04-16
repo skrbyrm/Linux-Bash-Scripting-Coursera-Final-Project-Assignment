@@ -1,4 +1,4 @@
-# Linux Commands and Shell Scripting - Coursera Final Project-Assignment
+# Linux Commands and Shell Scripting - Coursera Final Project
 
 Estimated time needed: 90 minutes
 
